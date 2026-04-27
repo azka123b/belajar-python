@@ -1,0 +1,3 @@
+#zkotonl
+
+azka = 90
